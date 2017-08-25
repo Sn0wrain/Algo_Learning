@@ -1,6 +1,6 @@
 ## Algorithm learning
 ### Class 1--insertion sorting
-    今天开始重新学习算法知识，推荐一个非常好的算法学习课程，MIT-6.046J。课程网页：http://v.163.com/special/opencourse/algorithms.html
+    今天开始重新学习算法知识，推荐一个非常好的算法学习课程，MIT-6.046J。(课程网页)[http://v.163.com/special/opencourse/algorithms.html]
 
     第一节课讲述了数组插入排序的方法，插值算法依笔者看来，即为从第二个元素，即Array[1]开始，将其值key与之前的元素进行对比，例如Array[9]即仅需与Array[0]到Array[8]进行比较，若后数小于前数，则交换两者位置。
 
@@ -8,7 +8,7 @@
 
 代码如下：
 
-```bash
+```
 // Algo_learning--sorting--insertion_sorting
 // Programmed by Sn0wrain    2015-6-14
 // Upadte1:Use the malloc to create a dynamic array to generate the array of any numbers
